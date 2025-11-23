@@ -37,8 +37,9 @@ Fully built using **React Hooks** and basic CSS.
 - Array methods (`map`, `filter`) for CRUD
 
 ### Screenshot
-<img src="./images/image (15).png"/>
 <img src="./images/image (5).jpg"/>
+<img src="./images/image (15).png"/>
+
 ---
 
 ## 📂 Project Structure
