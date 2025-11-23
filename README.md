@@ -36,6 +36,9 @@ Fully built using **React Hooks** and basic CSS.
 - Controlled inputs (`textarea`)
 - Array methods (`map`, `filter`) for CRUD
 
+### Screenshot
+<img src=""/>
+<img src=""/>
 ---
 
 ## 📂 Project Structure
