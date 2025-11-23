@@ -40,11 +40,12 @@ Fully built using **React Hooks** and basic CSS.
 
 ## 📂 Project Structure
 
+```
 src/
 │── App.jsx
 │── App.css
 │── index.js
-
+```
 
 ---
 
