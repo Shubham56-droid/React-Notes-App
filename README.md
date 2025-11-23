@@ -1,26 +1,26 @@
-#📝 Notes App (React)
+📝 Notes App (React)
 
 A simple and clean React-based Notes App where users can add, view, search, and delete notes.
 The app also supports custom color backgrounds, uses localStorage to save notes permanently, and offers a smooth UI designed for beginners & intermediates learning React.
 
-#🚀 Features
+🚀 Features
 ✅ Add Notes
 
 Create notes with custom text and a selectable background color.
 
-#🎨 Color Picker
+🎨 Color Picker
 
 Each note can have a unique background color for easier organization.
 
-#🗑️ Delete Notes
+🗑️ Delete Notes
 
 Remove notes instantly with a single click.
 
-#🧩 Clean & Modular Components
+🧩 Clean & Modular Components
 
 The app uses reusable React components with proper state management.
 
-#🧠 Concepts Used (React)
+🧠 Concepts Used (React)
 
 This project helps you understand:
 
@@ -55,20 +55,20 @@ src/
 │── index.js
 │── App.css
 
-#🛠️ Installation & Setup
+🛠️ Installation & Setup
 
 Follow these steps to run the project locally:
 
-# Clone repo
+ Clone repo
 git clone https://github.com/yourusername/notes-app.git
 
-# Move into project folder
+Move into project folder
 cd notes-app
 
-# Install dependencies
+Install dependencies
 npm install
 
-# Run the app
+Run the app
 npm start
 
 🧪 How It Works
